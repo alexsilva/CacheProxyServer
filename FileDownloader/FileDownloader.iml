@@ -70,9 +70,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="support-v4-18.0.0" level="project" />
     <orderEntry type="library" exported="" name="ComAndroidSupportAppcompatV71800.aar" level="project" />
-    <orderEntry type="library" name="DiskLruCache" level="project" />
-    <orderEntry type="library" name="org_apache_commons_io" level="project" />
-    <orderEntry type="library" name="apache-commons-io" level="project" />
     <orderEntry type="library" name="disklrucache-2.0.2" level="project" />
     <orderEntry type="library" name="androidasync-1.1.6" level="project" />
     <orderEntry type="library" name="org-apache-commons-io" level="project" />
